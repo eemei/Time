@@ -1,5 +1,5 @@
 #include "unity.h"
-#include "TIme.h"
+#include "TimeSample.h"
 
 void setUp(void){}
 
@@ -14,4 +14,4 @@ void test_time(void){
   otherDiffTime();
   diffTimeTwo();
   currentTime();
-  }
+}

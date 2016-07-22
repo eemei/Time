@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-#include "Time.h"
+#include "TimeSample.h"
 #include <time.h>
 
 #define SIZE 256

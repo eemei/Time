@@ -1,5 +1,5 @@
-#ifndef Time_H
-#define Time_H
+#ifndef TimeSample_H
+#define TimeSample_H
 
 
 int timeFunction();
@@ -10,4 +10,4 @@ int diffTime();
 int otherDiffTime();
 int diffTimeTwo();
 void currentTime();
-#endif // SpaceInvaders_H
+#endif // TimeSample_H
